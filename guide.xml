@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Megapix HD ³">
+    <display-name lang="pt">Megapix HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gazeta HD">
+    <display-name lang="pt">Gazeta HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD ³">
+    <display-name lang="pt">Telecine Fun HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
